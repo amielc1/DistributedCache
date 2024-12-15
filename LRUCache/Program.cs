@@ -1,6 +1,5 @@
 using LRUCache.Interfaces;
 using LRUCache.Services;
-using Microsoft.Extensions.Logging;
 
 var builder = WebApplication.CreateBuilder(args);
 
